@@ -1,0 +1,541 @@
+Build a complete personal portfolio website for me as a Junior Frontend Developer.
+
+IMPORTANT:
+This portfolio must NOT look like a generic AI-generated portfolio template.
+
+Do not use common AI portfolio patterns such as:
+
+* excessive gradients
+* Aurora backgrounds
+* glassmorphism everywhere
+* glowing cards
+* 3D objects
+* floating blobs
+* excessive rounded cards
+* huge animated text
+* excessive scroll animations
+* generic AI illustrations
+* unnecessary particles
+* overly futuristic cyberpunk styling
+* template-like sections that look copied from common AI website generators
+
+The website should feel like a real developer personally designed and built it.
+
+==================================================
+PERSONAL INFORMATION
+====================
+
+Use the following information and placeholders.
+
+Full Name:
+Khalil Aljndy
+
+Professional Title:
+Frontend Developer
+
+Email:
+khalilaljndy1@gmail.com
+Phone:
++963930564090
+
+GitHub:
+https://github.com/khalilaljndy
+
+LinkedIn:
+https://www.linkedin.com/in/khalil-al-jndy-bb579a406
+
+Khamsat:
+https://khamsat.com/user/khalilaljndy
+
+Mostaql:
+https://mostaql.com/u/khalilaljndy
+
+Do NOT invent any personal information, contact information, education details,
+work experience, achievements, companies, clients, or certifications.
+
+==================================================
+ABOUT ME
+========
+
+Create a short professional About section for a Junior Frontend Developer.
+
+The tone should be:
+
+* professional
+* honest
+* confident but not exaggerated
+* simple
+* human
+* concise
+
+Focus on:
+
+* Frontend development
+* building responsive websites
+* writing clean and maintainable code
+* improving JavaScript skills
+* interest in modern web development
+
+Do not describe me as an expert, senior developer, or highly experienced developer.
+
+Do not invent professional experience.
+
+==================================================
+SKILLS
+======
+
+Current skills:
+
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Web Design
+* Git
+* GitHub
+
+Only include the skills listed above.
+
+Do not add React, TypeScript, Tailwind, Node.js, Next.js, or other technologies
+unless I explicitly add them later.
+
+Make the skills section easy to edit so I can add or remove skills later.
+
+==================================================
+PROJECTS
+========
+
+Create a Projects section containing exactly 3 projects.
+
+I already have three projects on GitHub.
+
+Project 1:
+Name: Writeflow ai landing page
+Description: A modern and responsive landing page for an AI writing assistant
+Technologies: HTML, CSS, JavaScript, and Bootstrap 5
+Live Demo: https://khalilaljndy.github.io/weather-dashboard/
+GitHub: https://github.com/khalilaljndy/writeflow-ai-landing-page
+Image: /home/khalil/Downloads/Projects/HTML,CSS,JS projects/Project 0/Images/Hero.png
+
+Project 2:
+Name: Doctor Clinic Website
+Description: Fictional Front-End Portfolio Project, A modern, responsive doctor clinic website
+Technologies: HTML5, CSS3, JavaScript, and Bootstrap
+Live Demo: https://khalilaljndy.github.io/doctor-clinic-website/
+GitHub: https://github.com/khalilaljndy/doctor-clinic-website
+Image: /home/khalil/Downloads/Projects/HTML,CSS,JS projects/Project 1/Images/hero.png
+
+Project 3:
+Name: Responsive Weather Dashboard
+Description: A modern responsive weather dashboard that provides real-time weather information for cities. The application is optimized for both desktop and mobile screens and focuses on a clean, simple, user-friendly experience.
+Technologies: HTML5
+CSS3
+JavaScript (ES6), Open-Meteo API, Geolocation API, Local Storage
+Live Demo: https://khalilaljndy.github.io/weather-dashboard/
+GitHub: https://github.com/khalilaljndy/weather-dashboard
+Image: /home/khalil/Downloads/Projects/HTML,CSS,JS projects/Project 2/images/hero.png
+
+IMPORTANT:
+Do not invent project descriptions or technologies.
+
+Keep all project information in an easy-to-edit structure.
+
+Each project should contain:
+
+* project image
+* project name
+* short description
+* technology tags
+* Live Demo button
+* GitHub button
+
+If a Live Demo URL is empty, do not create a broken link.
+The project should still display the GitHub button.
+
+The project cards should not all look like identical generic AI cards.
+Use a clean editorial layout with subtle variation while maintaining consistency.
+
+==================================================
+CONTACT
+=======
+
+Create a simple Contact section.
+
+Include:
+
+* Email
+* Phone only if provided
+* LinkedIn
+* GitHub
+
+Also include:
+
+* Khamsat
+* Mostaql
+
+Do not display empty links.
+
+Do not create a fake contact form that sends nowhere.
+
+==================================================
+SOCIAL AND PROFESSIONAL LINKS
+=============================
+
+Primary professional links:
+
+* GitHub
+* LinkedIn
+* Email
+
+Freelance links:
+
+* Khamsat
+* Mostaql
+
+Do NOT add Facebook, Instagram, or Fiverr.
+
+==================================================
+DESIGN DIRECTION
+================
+
+Use a dark minimal developer aesthetic.
+
+The visual identity should communicate:
+
+* developer
+* technical
+* creative
+* disciplined
+* modern
+* simple
+* personal
+
+Color direction:
+
+Background:
+Very dark charcoal / near-black.
+
+Primary accent:
+Emerald green with a subtle cyan influence.
+
+Text:
+Off-white / light gray.
+
+Secondary text:
+Muted gray.
+
+Use CSS variables for all major colors so I can change the entire color palette
+from one place later.
+
+Example:
+
+:root {
+--background: ...;
+--surface: ...;
+--text-primary: ...;
+--text-secondary: ...;
+--accent: ...;
+--border: ...;
+}
+
+Do not use a large multicolor gradient system.
+
+Use the accent color carefully for:
+
+* links
+* buttons
+* hover states
+* small highlights
+* important UI details
+
+Do not make the entire website glow.
+
+==================================================
+VISUAL IDENTITY
+===============
+
+The design should feel handcrafted rather than generated from a template.
+
+Use:
+
+* generous whitespace
+* strong typography
+* clean alignment
+* subtle borders
+* subtle shadows only where useful
+* small technical details
+* restrained animations
+* interesting but simple section layouts
+* slightly asymmetric layouts where appropriate
+
+Avoid:
+
+* excessive rounded rectangles
+* excessive gradients
+* excessive icons
+* unnecessary decorative elements
+* giant headings that occupy most of the screen
+* excessive animations
+* generic stock photos
+* fake testimonials
+* fake statistics
+* fake client logos
+* fake experience numbers
+
+==================================================
+HERO SECTION
+============
+
+Create a distinctive but simple hero section.
+
+Display:
+
+Khalil Aljndy
+
+Frontend Developer
+
+Use a short personal statement such as:
+
+"Building clean, responsive, and user-focused web experiences."
+
+Keep it concise and natural.
+
+Include:
+
+* View Projects
+* Contact Me
+* GitHub
+* LinkedIn
+
+Do not use a huge hero illustration.
+
+Instead, use typography and subtle technical visual details.
+
+==================================================
+NAVIGATION
+==========
+
+Create a simple navigation bar:
+
+Home
+About
+Skills
+Projects
+Contact
+
+Include my name/logo on the left.
+
+Make the navigation responsive.
+
+On mobile, use a clean mobile menu.
+
+==================================================
+ABOUT SECTION
+=============
+
+Use a clean two-column or editorial layout on desktop.
+
+Do not use a generic profile card with random statistics.
+
+Keep the content focused on who I am and what I build.
+
+==================================================
+PROJECT SECTION
+===============
+
+Make Projects the visual centerpiece of the website.
+
+Projects are more important than decorative elements.
+
+Use screenshots/images of my actual projects.
+
+Make the project section easy to update.
+
+I should be able to replace:
+
+* project name
+* description
+* technologies
+* image
+* GitHub URL
+* Live Demo URL
+
+without restructuring the entire website.
+
+==================================================
+CONTACT SECTION
+===============
+
+Create a clean and simple contact area.
+
+Show my available professional contact methods.
+
+Do not use fake contact information.
+
+Do not display social platforms that I have not provided.
+
+==================================================
+FOOTER
+======
+
+Create a minimal footer containing:
+
+Khalil Aljndy
+Frontend Developer
+
+GitHub
+LinkedIn
+Email
+Khamsat
+Mostaql
+
+Only show links that have valid URLs.
+
+Add a simple copyright line.
+
+==================================================
+RESPONSIVENESS
+==============
+
+The website must be fully responsive.
+
+Optimize intentionally for:
+
+* mobile phones
+* tablets
+* laptops
+* large desktop screens
+
+Do not simply shrink the desktop layout.
+
+Create intentional mobile layouts.
+
+==================================================
+ACCESSIBILITY
+=============
+
+Follow basic accessibility best practices:
+
+* semantic HTML
+* proper heading hierarchy
+* accessible buttons
+* descriptive alt text
+* sufficient color contrast
+* keyboard-friendly navigation
+* visible focus states
+* aria attributes where appropriate
+
+==================================================
+SEO
+===
+
+Add basic SEO:
+
+* meaningful page title
+* meta description
+* semantic HTML
+* Open Graph metadata
+* favicon placeholder
+* descriptive image alt attributes
+
+Use placeholders where my real information is required.
+
+==================================================
+CODE QUALITY
+============
+
+Use clean, readable, maintainable code.
+
+Separate:
+
+* HTML
+* CSS
+* JavaScript
+* assets
+
+Use reusable CSS classes.
+
+Use CSS variables for the design system.
+
+Keep JavaScript simple and purposeful.
+
+Do not add libraries or frameworks unless genuinely necessary.
+
+The first version must use:
+
+HTML
+CSS
+JavaScript
+
+Do not convert the project to React.
+
+==================================================
+EDITABILITY
+===========
+
+IMPORTANT:
+
+Make the website extremely easy for me to edit later.
+
+Create a clearly identifiable configuration/data section where possible for:
+
+* name
+* title
+* email
+* phone
+* GitHub
+* LinkedIn
+* Khamsat
+* Mostaql
+* projects
+* skills
+* colors
+
+Add comments explaining where I should edit these values.
+
+I should be able to update my information without searching through hundreds
+of lines of code.
+
+==================================================
+FUTURE UPDATES
+==============
+
+Design the code so I can later:
+
+* add React to my skills
+* add new projects
+* remove old projects
+* change colors
+* change typography
+* change my professional title
+* add a professional Instagram account
+* add a custom domain
+* add a real contact form
+* add a Resume/CV download button
+
+without rebuilding the entire website.
+
+==================================================
+IMPORTANT FINAL REQUIREMENT
+===========================
+
+Before generating the final code, inspect the existing project structure.
+
+If files already exist, do not unnecessarily delete or overwrite important
+project files.
+
+Build the portfolio cleanly on top of the existing project.
+
+After implementation, explain briefly:
+
+1. Which files contain my personal information.
+2. Where I change colors.
+3. Where I add/remove projects.
+4. Where I change skills.
+5. Where I change social links.
+6. How I run the project locally.
+7. How I can deploy it later.
+
+Do not invent any missing personal information.
+
+Use clearly marked placeholders for anything I need to provide manually.
+
